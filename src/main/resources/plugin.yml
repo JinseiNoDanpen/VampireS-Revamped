@@ -1,4 +1,4 @@
-main: org.shinodanpen.vampiresrevamped.VampireSRevamped
+main: org.shinodanpen.vampiresrevamped.MainClass
 name: VampireS_Revamped
 version: '1.0'
 description: VampireS Remake for 1.17+
