@@ -1,0 +1,6 @@
+main: org.shinodanpen.vampiresrevamped.VampireSRevamped
+name: VampireS_Revamped
+version: '1.0'
+description: VampireS Remake for 1.17+
+author: shinodanpen
+api-version: 1.17
